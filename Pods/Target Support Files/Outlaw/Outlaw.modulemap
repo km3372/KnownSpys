@@ -1,0 +1,6 @@
+framework module Outlaw {
+  umbrella header "Outlaw-umbrella.h"
+
+  export *
+  module * { export * }
+}
